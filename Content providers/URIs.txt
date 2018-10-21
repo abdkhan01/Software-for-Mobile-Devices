@@ -1,0 +1,4 @@
+Contacts: ContactsContract.Contacts.CONTENT_URI
+SMS: "content://sms/inbox"
+Call Logs: "content://call_log/calls"
+Gallery: MediaStore.Images.Media.EXTERNAL_CONTENT_URI, MediaStore.Video.Media.EXTERNAL_CONTENT_URI,MediaStore.Audio.Media.EXTERNAL_CONTENT_URI 
